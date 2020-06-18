@@ -1,0 +1,5 @@
+name "automata_arranger"
+description "Data structures for representing finite automata and an NFA->DFA converter."
+authors "Chad Joan"
+copyright "Copyright © 2020, Chad Joan"
+license "Boost"
